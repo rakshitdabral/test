@@ -1,0 +1,5 @@
+{{#user}
+Name: Rakshit Dabral
+Skills: HTML, CSS, JS, Python, C++ , ReactJs
+Email: rakshitdabral1@gmail.com
+{{/user}}
